@@ -1,0 +1,16 @@
+Función,Esquema de reemplazo,Mejor Valor,Promedio,Peor Valor,Desviación Estándar,Mediana
+Ackley,Elitista,1.91,3.43,5.01,0.74,3.37
+Ackley,Generacional,18.38,19.63,20.63,0.63,19.84
+Ackley,Peores,0.00,0.13,2.32,0.50,0.00
+Griewank,Elitista,0.81,1.19,1.61,0.14,1.21
+Griewank,Generacional,64.47,142.26,238.05,44.60,144.35
+Griewank,Peores,0.02,0.14,0.48,0.09,0.12
+Rastrigin,Elitista,7.09,20.27,40.89,7.48,19.67
+Rastrigin,Generacional,76.12,112.66,142.34,16.17,113.43
+Rastrigin,Peores,1.24,7.75,18.24,3.50,7.83
+Rosenbrock,Elitista,5.70,14.79,82.50,17.67,9.46
+Rosenbrock,Generacional,516.78,"1,134.78","2,666.98",501.22,968.72
+Rosenbrock,Peores,5.49,23.43,99.75,27.58,8.97
+Sphere,Elitista,0.01,0.08,0.23,0.05,0.07
+Sphere,Generacional,16.06,38.80,74.04,11.22,38.05
+Sphere,Peores,0.00,0.00,0.00,0.00,0.00
