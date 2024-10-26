@@ -1,0 +1,13 @@
+Nombre,Valor (tipo)
+Poblaciones (AG),70
+Dimensión,10
+Bits en codificaciones binarias,20 (por dimensión)
+Cortes en el operador de cruza (AG),15
+Probabilidad de mutación (AG),0.1
+Fracción de reemplazo (en AG reemplazo de los peores),0.5
+Iteraciones (AG),1000
+Criterio de término (AG),Generación máxima (1000)
+Temperatura Inicial (SA),5000
+Tasa de enfriamiento (SA Geométrico),0.9
+Iteraciones (SA),1200
+Criterio de término (SA),Iteración máxima (1200)
