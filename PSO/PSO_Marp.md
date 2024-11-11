@@ -96,13 +96,15 @@ intervalo = intervalofuncionObjetivo
 
 **AG :herb::**
 
-![alt text](tabla_resultados_AG_formato.png)
+![tabla_resultados_AG_formato](https://github.com/user-attachments/assets/0ac362ea-76c6-4265-984f-ee3c9ca0c14e)
+
 
 ---
 
 **PSO :bird:**
 
-![alt text](PSO_tabla_bonita.png)
+![PSO_tabla_bonita](https://github.com/user-attachments/assets/ecb2005e-96c6-4048-b5dd-55de8ec418df)
+
 
 ----
 
@@ -113,13 +115,15 @@ intervalo = intervalofuncionObjetivo
 particulas = np.clip(particulas, a, b)
 ```
 - Obtenemos:
-![alt text](sin_salirse.png)
+
+![sin_salirse](https://github.com/user-attachments/assets/39635f9d-c18b-48de-b4e7-b9d35d93433d)
 
 ---
 
 **Si podemos salirnos:**
 
-![alt text](salirse.png)
+![salirse](https://github.com/user-attachments/assets/484c60e2-09b9-464f-a0b2-248db4dae9c8)
+
 
 ---
 
