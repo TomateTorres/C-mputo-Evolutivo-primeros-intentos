@@ -134,3 +134,4 @@ particulas = np.clip(particulas, a, b)
 
 - Implementación: https://induraj2020.medium.com/implementing-particle-swarm-optimization-in-python-c59278bc5846
 - (Shi 2004): https://www.marksmannet.com/RobertMarks/Classes/ENGR5358/Papers/pso_bySHI.pdf
+- Mi implementación: https://github.com/TomateTorres/C-mputo-Evolutivo-primeros-intentos/blob/main/PSO/PSO_Implementado.ipynb
