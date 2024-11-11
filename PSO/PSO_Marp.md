@@ -75,7 +75,7 @@ intervalo = intervalofuncionObjetivo
 
 **PSO con factor de constricción (por Clerc y Kennedy 2002):**
 
-![alt text](image2.png)
+C:\Users\Chinitok666\Documents\GitHub\C-mputo-Evolutivo-primeros-intentos\PSO\image2.png
 
 - Única restricción: $\varphi = c_1 + c_2 > 4$
 
