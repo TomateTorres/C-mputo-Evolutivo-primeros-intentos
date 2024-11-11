@@ -1,0 +1,6 @@
+Funcion,Mejor Valor,Promedio,Peor Valor,Mediana,Desviación Estándar,Porcentaje en Rango
+Ejecuciones_Ackley,0.0,0.0,0.0,0.0,0.0,100.0
+Ejecuciones_Griewank,0.012321,0.07003800000000002,0.145071,0.071309,0.030612796404839236,100.0
+Ejecuciones_Rastrigin,1.989918,4.676306,9.94958,4.4773155000000004,1.716370629972342,100.0
+Ejecuciones_Rosenbrock,0.036444,1.846144133333333,5.227418,1.6412170000000001,1.0515826611446437,100.0
+Ejecuciones_Sphere,0.0,0.0,0.0,0.0,0.0,100.0

@@ -1,0 +1,6 @@
+Función,Mejor Valor,Promedio,Peor Valor,Mediana,Desviación Estándar,Porcentaje en Rango
+Ackley,0,0,0,0,0,100.0
+Griewank,0.012,0.07,0.145,0.071,0.03,100.0
+Rastrigin,1.989,4.676,9.949,4.477,1.716,100.0
+Rosenbrock,0.036,1.846,5.227,1.641,1.05,100.0
+Sphere,0,0,0,0,0,100.0
